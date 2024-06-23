@@ -1,4 +1,4 @@
-# Currency Converter
+# Currency-Converter
 
 I helped [Adam Konečný](https://github.com/adamkonecny18) with his school Java project, despite my limited experience with Java. It was a learning experience for me, but we managed to make it.
 
